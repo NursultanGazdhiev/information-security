@@ -2,11 +2,11 @@
 ## Front matter
 lang: ru-RU
 title: Дискреционное разграничение прав в Linux. Два пользователя
-author: Гурбангельдиев Мухаммет НФИбд-03-18
+author: Гаджиев Нурсултан НПИбд-01-18
 
 institute: RUDN University
 
-date: Информационная безопасность, 14 октября, 2021, Москва, Россия
+date: Информационная безопасность, 16 октября, 2021, Москва, Россия
 
 ## Formatting
 mainfont: PT Serif
@@ -45,25 +45,14 @@ section-titles: true
 
 ### Результат
 
-![Пользователь guest2](https://github.com/Mukhammet/information-security/blob/master/lab03/picture/2.png?raw=true){ #fig:001 width=70% }
+![Пользователь guest2](https://github.com/NursultanGazdhiev/information-security/blob/master/lab03/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/image/2.jpg?raw=true){ #fig:001 width=70% }
 
 
 ## Получение практических навыков работы с атрибутами файлов
 
 ### Результат
 
-![Работа с атрибутами файлов](https://github.com/Mukhammet/information-security/blob/master/lab03/picture/8.JPG?raw=true){ #fig:002 width=70% }
-
-
-## Закрепление теоретических основ дискреционного разграничения доступа
-
-
-### Результат
-
-![Установленные права и разрешенные действия для групп](https://github.com/Mukhammet/information-security/blob/master/lab03/picture/9.JPG?raw=true){ #fig:003 width=40% }
-
-![Минимальные права для совершения операция от имени пользователей входящих в группу](https://github.com/Mukhammet/information-security/blob/master/lab03/picture/12.JPG?raw=true){ #fig:004 width=40% }
-
+![Работа с атрибутами файлов](https://github.com/NursultanGazdhiev/information-security/blob/master/lab03/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/image/14.jpg?raw=true){ #fig:002 width=70% }
 
 # Выводы
 
